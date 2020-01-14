@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+title: Jent.ly Summarizer
+description: A Chrome Extension Summarizer for newspaper articles and online content
+baseurl: /
