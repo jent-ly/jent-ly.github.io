@@ -1,3 +1,12 @@
+# project
 _site
 .sass-cache
-.jekyll-metadata
+.vagrant
+.jekyll-cache/
+*.swp
+*.swo
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
