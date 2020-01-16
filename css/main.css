@@ -403,7 +403,7 @@ footer .theme-by {
 .blog-tags a:hover {
   border-radius: 2px;
   color: {{ site.hover-col }};
-  background-color: #EEE;
+  background-color: #ffe6e0;
 }
 
 .post-preview .blog-tags {
@@ -786,3 +786,30 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+/* Customized CSS */
+
+.btn-primary {
+  background-color: #ff886e;
+  border-color: #ff7759;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+  background-color: #fa6443;
+  border-color: #e65839;
+}
+
+.chromestore {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.subheading {
+  font-size: 27px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
+

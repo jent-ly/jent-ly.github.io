@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Jent-ly Summarizer
+title: Jent.ly
 
 # Short description of your site
 description: A Chrome Extension that seamlessly summarizes web articles and online content
@@ -29,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/jent-icon-64.png"
+avatar: "/img/jent-icon-512.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -39,13 +39,13 @@ avatar: "/img/jent-icon-64.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#ffd445"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+navbar-children-col: "#ffd445"
+page-col: "#FDF9EE"
+link-col: "#fa8d74"
+hover-col: "#ff886e"
+footer-col: "#ffd445"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
