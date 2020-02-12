@@ -5,6 +5,7 @@ _site
 .jekyll-cache/
 *.swp
 *.swo
+.jekyll-metadata
 
 # general
 .DS_Store
