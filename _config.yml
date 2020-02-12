@@ -23,8 +23,8 @@ navbar-links:
   Getting Started: "gettingstarted"
   Download: "https://chrome.google.com/webstore/detail/jently-summarizer/ljpcoibfhggflcmmlbpbcmdkmdnaafeo?hl=en"
   Blog: "blog"
-  ToS: "termsofservice"
-  Technical Documentation:
+  Documentation:
+    - Terms of Service: "termsofservice"
     - Chrome Extension: "http://github.com/jent-ly/summarizer"
     - Summarizer Server: "http://github.com/jent-ly/summarizer_server"
 

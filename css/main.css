@@ -817,3 +817,15 @@ pre {
 img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+.chromestoredownloadbutton {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: x-large;
+  background-color: #ffd445;
+}
+
+.chromestoredownloadbuttontext {
+  color: #404040;
+  text-decoration: none;
+}
+
