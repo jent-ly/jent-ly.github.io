@@ -3,6 +3,7 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@import "bootstrap.min.css";
 
 /* --- General --- */
 
@@ -813,3 +814,6 @@ pre {
   margin: 10px 0 0;
 }
 
+img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
