@@ -795,7 +795,7 @@ pre {
   border-color: #ff7759;
 }
 
-.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+.btn-primary:hover, .btn-primary:focus, .btn-primary.active {
   background-color: #fa6443;
   border-color: #e65839;
 }
@@ -814,6 +814,30 @@ pre {
   margin: 10px 0 0;
 }
 
-img {
+.getting-started-img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+.download-btn {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #ffd854;
+  padding: 12px 25px;
+  border-color: #f5bd00;
+  border-width: 1px;
+  color: #404040;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 550;
+  font-size: 18px;
+}
+
+.download-btn:hover, .download-btn:focus, .download-btn.active {
+  background-color: #ffd854;
+  border-color: #f5bd00;
+  text-decoration: none;
+  color: #fa8d74;
+}
+
+.tos {
+  margin: 8px;
+}
+
