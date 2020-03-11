@@ -11,7 +11,7 @@ Our summarization technology analyses the syntax and semantics of the article to
 
 We understand that producing a good summary is a hard task and is subjective to the reader and the context of the article. We're constantly working to make the summarization experience better (Spoiler: You'll soon be able to enter keywords that we'll find and include in our summary).
 
-Of course, please let us know how we did from within the extension or by [email](mailto:jently.summarizer@gmail.com). Any feedback or suggestion is greatly appreciated!
+Of course, please let us know how we did from within the extension or by [email](mailto:support@jent.ly). Any feedback or suggestion is greatly appreciated!
 
 Thanks for your support!
 
